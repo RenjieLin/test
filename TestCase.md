@@ -1,3 +1,5 @@
+![image](https://drive.google.com/uc?export=view&id=1BwynIeS3sVDOMSqWPL3Hymeyzn9BzvAj)
+
 * Test Name ->User can search items by item type.
   * 1.Entrance criteria: User needs to be on Grocery List Activity
   * 2.Action expected from user: User Clicks on Search item by type in the Grocery List Activity.
