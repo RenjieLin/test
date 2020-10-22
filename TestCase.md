@@ -1,4 +1,4 @@
-![image](https://drive.google.com/uc?export=view&id=1BwynIeS3sVDOMSqWPL3Hymeyzn9BzvAj)
+![image](https://drive.google.com/uc?export=view&id=1BRc_uBh5GCsiYh7SHRvtbQ2EQQFzlNkf)
 
 * Test Name ->User can search items by item type.
   * 1.Entrance criteria: User needs to be on Grocery List Activity
